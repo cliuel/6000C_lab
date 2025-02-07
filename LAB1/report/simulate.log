@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+WARNING: File solution.dat referenced on /home/ubuntu/Desktop/Verilog/binary2bcd_double_dabble-tb.v at line 25 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+Your answer is correct!
+$finish called at time : 1025 ns : File "/home/ubuntu/Desktop/Verilog/binary2bcd_double_dabble-tb.v" Line 86
