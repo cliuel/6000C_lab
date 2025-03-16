@@ -285,7 +285,7 @@ module fir
 		endcase
 	end
 	
-		//AXI-Stream_in signals
+	//AXI-Stream_in signals
 	assign ss_tready = (ap_ctrl[2] == 0 )?1'b1:1'b0;
 	//FIR处于非空闲态，即FIR运行中
 	
