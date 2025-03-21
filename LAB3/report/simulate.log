@@ -1,0 +1,8 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+---- START FIR ----
+---- Write data_length = 11 ----
+---- Send 11 input samples via AXI-Stream ----
+---- Write number of taps = 11 ----
+---- Write 11 Taps (0x80, 0x84, ...) ----
+---- All input data sent ----
